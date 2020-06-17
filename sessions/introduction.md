@@ -9,7 +9,7 @@ What you'll learn
 -----------------
 
 - Required tools
-- Thinking like a breaker
+- Thinking like a breaker , more like an attacker :)
 - Attacker-defender imbalance
 - Lightweight threat assessment and prioritization
 - How to write good bug reports
